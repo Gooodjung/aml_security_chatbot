@@ -11,7 +11,6 @@ LangChain과 LangGraph를 활용한 **금융 자금세탁방지(AML) 전문 챗�
 - 5개 이상의 Conditional Edge 구현
 - 오픈소스 벤치마크 + 자체 텍소노미 평가
 
-```
 
 ## 📁 프로젝트 구조
 
