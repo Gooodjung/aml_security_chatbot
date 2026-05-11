@@ -1,0 +1,11 @@
+transaction_id,amount,currency,type,channel,source_country,dest_country,frequency,timestamp
+TXN-001,50000,USD,wire_transfer,online,KR,US,3,2024-01-15 10:30:00
+TXN-002,500000,USD,wire_transfer,online,RU,US,1,2024-01-15 11:15:00
+TXN-003,100000,USD,crypto_exchange,crypto,KR,KR,25,2024-01-15 12:00:00
+TXN-004,10000,USD,investment,online,US,SG,5,2024-01-15 13:20:00
+TXN-005,2000,USD,normal_transfer,atm,KR,KR,1,2024-01-15 14:45:00
+TXN-006,75000,USD,wire_transfer,branch,US,CN,2,2024-01-15 15:00:00
+TXN-007,250000,USD,investment,online,RU,HK,3,2024-01-15 16:30:00
+TXN-008,5000,USD,normal_transfer,online,KR,KR,8,2024-01-15 17:15:00
+TXN-009,150000,USD,crypto_exchange,crypto,JP,US,15,2024-01-15 18:00:00
+TXN-010,300000,USD,wire_transfer,online,SG,RU,1,2024-01-15 19:45:00
