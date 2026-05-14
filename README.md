@@ -17,9 +17,9 @@ LangChain과 LangGraph를 활용한 **금융 자금세탁방지(AML) 전문 챗�
 ```
 aml_security_chatbot/
 ├── notebooks/
-│   ├── [실습1] LangGraph와 Conditional Edge.ipynb
-│   ├── [실습2] AML 금융보안 챗봇 구현.ipynb
-│   └── [실습3] 벤치마크 평가.ipynb
+│   ├── 1. LangGraph와 Conditional Edge.ipynb
+│   ├── 2. AML 금융보안 챗봇 구현.ipynb
+│   └── 3. 벤치마크 평가.ipynb
 ├── src/
 │   ├── aml_chatbot.py      # 챗봇 구현 (Conditional Edge 5개)
 │   └── evaluator.py        # 평가 파이프라인
