@@ -159,7 +159,6 @@ elif page == "📈 벤치마크":
         st.metric("Coherence (일관성)", "7/10", "논리적 흐름")
 
     st.markdown("---")
-    st.info("📌 평가는 Jupyter 노트북 [실습3]에서 상세히 진행됩니다.")
 
 st.markdown("---")
 st.caption("🤖 AML 금융보안 챗봇 | LangGraph × OpenAI")
