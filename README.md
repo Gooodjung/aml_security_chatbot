@@ -8,7 +8,7 @@ LangChain과 LangGraph를 활용한 **금융 자금세탁방지(AML) 전문 챗�
 - Streamlit 배포 링크: https://amlsecuritychatbot-inuee97pwsyhto46qpwneu.streamlit.app/
 - Placement, Layering, Integration 3단계 자금세탁 탐지
 - LangGraph 기반 멀티에이전트 시스템
-- 5개 이상의 Conditional Edge 구현
+- Conditional Edge 구현(5개)
 - 오픈소스 벤치마크 + 자체 텍소노미 평가
 
 
@@ -33,7 +33,7 @@ aml_security_chatbot/
 
 ## ✨ 주요 기능
 
-### 1. **Conditional Edge 5개 이상**
+### 1. **Conditional Edge 5개**
 - ✅ Router: 거래 유형 기반 분기
 - ✅ 거래액 기반: High/Low 분기
 - ✅ 거래 빈도 기반: Frequent/Infrequent 분기
